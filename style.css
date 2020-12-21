@@ -1,0 +1,91 @@
+body{
+	
+     background-image: url("okay/2.jpg");
+	 font-family: Arial;
+	 font-size: 12px;
+	 font-weight: normal;
+	 color: white;
+	 /*font:normal,arial;(same)*/
+
+	 line-height: 1.5em;
+}
+.container{
+	width: 500px;
+	padding: 2px;
+	margin: auto;
+	
+
+
+}
+.top{
+	text-align: center;
+	background-color: orange;
+	padding: 2px;
+
+}
+.try-1{
+	background-color: silver;
+	box-shadow: 8px;
+	color: black;
+	border:5px purple solid;
+	border-width: 3px;
+	border-top-style: dotted;
+	padding: 20px;
+	margin:20px;
+}
+.try-1 h1{
+	font-family: Tahoma;
+	color: red;
+	background-color: purple;
+	margin:auto;
+	padding: 3px;
+	border:0.5px;
+	text-align: center;
+}
+}
+.container strong{
+	color: yellow;
+
+	text-shadow: 2px;
+	letter-spacing: 0.5px;
+
+
+}
+.try-2{
+	background-color: pink;
+	color: black;
+	border:5px purple solid;
+	border-width: 3px;
+	border-top-style: dotted;
+	padding: 20px;
+	margin:20px;
+}
+.try-1{
+	padding: 0px;
+	list-style: square;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+a:hover{
+	color: green;
+}
+a:active{
+    color: red;
+}
+.form label{
+	display: block;
+
+}
+.form{
+	padding:1px;
+	color:black;
+	width: 100%;
+}
+
+ 
+
+
+
+
